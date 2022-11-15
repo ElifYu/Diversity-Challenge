@@ -2,11 +2,12 @@
 
 
 <h2>🚀 You can search Github user with user name at Search Page 🚀</h2>
+<h3>Watch video 👉 <a href="https://github.com/ElifYu/Diversity-Challenge/blob/main/assets/video.mp4">Watch Video</a></h3>
+
 <small>With Flutter Version 3.0.0</small>
 <br>
 <br>
 
-<small>Watch video 👉 <a href="https://github.com/ElifYu/Diversity-Challenge/blob/main/assets/video.mp4">Watch Video</a></small>
 
 <p float="left">
 
