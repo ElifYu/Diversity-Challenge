@@ -1,8 +1,8 @@
 # ⭐ ⭐ Diversity Challenge ⭐ ⭐
 
 
-<h2>You can search Github user with user name at Search Page</h2>
-<h4>Flutter Version 3.0.0</h4>
+<h2>You can search Github user with user name at Search Page <small>Flutter Version 3.0.0</small></h2>
+
 
 <p float="left">
 
