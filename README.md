@@ -1,7 +1,7 @@
 # ⭐ ⭐ Diversity Challenge ⭐ ⭐
 
 
-<h2>You can search Github user at Search Page</h2>
+<h2>You can search Github user with user name at Search Page</h2>
 
 <p float="left">
 
