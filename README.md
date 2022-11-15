@@ -2,9 +2,9 @@
 
 
 <h2>You can search Github user with user name at Search Page</h2>
-<small>Flutter Version 3.0.0</small>
-</br>
-
+<small>With Flutter Version 3.0.0</small>
+<br>
+<br>
 
 <p float="left">
 
