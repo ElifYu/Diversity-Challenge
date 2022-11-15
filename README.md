@@ -6,6 +6,9 @@
 <br>
 <br>
 
+<iframe width="560" height="315" src="https://github.com/ElifYu/Diversity-Challenge/blob/main/assets/video.mp4" frameborder="0" allowfullscreen></iframe>
+
+
 <p float="left">
 
    <img src="https://github.com/ElifYu/Diversity-Challenge/blob/main/assets/image3.jpeg" width="200" />
