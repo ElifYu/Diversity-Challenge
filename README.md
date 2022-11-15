@@ -6,7 +6,7 @@
 <br>
 <br>
 
-<iframe width="560" height="315" src="https://github.com/ElifYu/Diversity-Challenge/blob/main/assets/video.mp4" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=48vU-69XMs0&list=RD92izkAK5OA0&index=3" frameborder="0" allowfullscreen></iframe>
 
 
 <p float="left">
